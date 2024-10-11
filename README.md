@@ -7,17 +7,17 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajul-HangingPanda&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajul-HangingPanda&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- GitHub Commit Graph -->
+<!-- GitHub Commit Graph (Alternative) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=radical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajul-HangingPanda&theme=radical" alt="GitHub Activity Graph" />
 </p>
 
 <hr style="border: none; border-bottom: 2px solid #0A66C2; width: 80%; margin: 20px auto;" />
@@ -39,17 +39,17 @@
 <h2 style="color:#0A66C2; font-size: 24px;">🌟 Featured Projects</h2>
 <ul style="list-style-type: none; padding-left: 0; font-size: 16px; color: #333;">
   <li style="margin-bottom: 10px;">
-    <strong>Project 1: [Project Name]</strong><br />
+    <strong>Project 1: DOTCD</strong><br />
     <em>Description:</em> A brief description of your project, focusing on the technology used and your contributions.<br />
     <a href="https://github.com/your-repo-link" style="color: #0A66C2; text-decoration: none;">View Project</a>
   </li>
   <li style="margin-bottom: 10px;">
-    <strong>Project 2: [Project Name]</strong><br />
+    <strong>Project 2: Alsaif</strong><br />
     <em>Description:</em> A brief description of your project, focusing on the technology used and your contributions.<br />
     <a href="https://github.com/your-repo-link" style="color: #0A66C2; text-decoration: none;">View Project</a>
   </li>
   <li style="margin-bottom: 10px;">
-    <strong>Project 3: [Project Name]</strong><br />
+    <strong>Project 3: Mockup</strong><br />
     <em>Description:</em> A brief description of your project, focusing on the technology used and your contributions.<br />
     <a href="https://github.com/your-repo-link" style="color: #0A66C2; text-decoration: none;">View Project</a>
   </li>
@@ -57,9 +57,9 @@
 
 <h2 style="color:#0A66C2; font-size: 24px;">📫 Contact Me</h2>
 <ul style="list-style-type: none; padding-left: 0; font-size: 16px; color: #333;">
-  <li><strong>Email:</strong> <a href="mailto:youremail@example.com" style="color: #0A66C2; text-decoration: none;">youremail@example.com</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/your-profile" style="color: #0A66C2; text-decoration: none;">Your LinkedIn Profile</a></li>
-  <li><strong>Portfolio:</strong> <a href="https://your-portfolio.com" style="color: #0A66C2; text-decoration: none;">Your Portfolio</a></li>
+  <li><strong>Email:</strong> <a href="mailto:youremail@example.com" style="color: #0A66C2; text-decoration: none;">rajult4@gmail.com</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/your-profile" style="color: #0A66C2; text-decoration: none;"></a></li>
+  <li><strong>Portfolio:</strong> <a href="https://your-portfolio.com" style="color: #0A66C2; text-decoration: none;"></a></li>
 </ul>
 
 <h2 style="color:#0A66C2; font-size: 24px;">🌱 Currently Learning</h2>
